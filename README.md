@@ -7,4 +7,6 @@
 
 - `HEAD`: tells you where you are
 - `push <WHERE> <WHAT>`: takes current git history on local branch (<WHAT>) and send it to the remote (<WHERE>)
-- `pull`: 
+- `pull`: <WHERE> <WHAT>`: updates your local computer with the remote
+
+`switch <BRANCH>`: switch to a branch

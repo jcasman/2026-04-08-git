@@ -10,3 +10,5 @@
 - `pull`: <WHERE> <WHAT>`: updates your local computer with the remote
 
 `switch <BRANCH>`: switch to a branch
+  `switch -c <BRANCH>`: create a new branch
+`git log --oneline --graph --all`: 
